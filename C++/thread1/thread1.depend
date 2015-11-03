@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1446383511 source:d:\workspace\c++\thread1\main.cpp
-	<cstdio>
-	<atomic>
-	<thread>
-
