@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442720667 source:d:\workspace\c++\testset\main.cpp
+	<iostream>
+	<set>
+	<string>
+
